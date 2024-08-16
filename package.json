@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.16.6",
+    "@tabler/icons-react": "^3.11.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.3.21",
+    "tailwind-merge": "^2.4.0"
+  }
+}
