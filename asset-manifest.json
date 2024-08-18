@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SMIT1/static/css/main.f59cfbce.css",
+    "main.js": "/SMIT1/static/js/main.05334250.js",
+    "static/media/subjects.svg": "/SMIT1/static/media/subjects.013b9ea5daf1ce262cdf1faf054c2b50.svg",
+    "static/media/assignment.svg": "/SMIT1/static/media/assignment.bc61fe3453a587ff7d3028a4494ad169.svg",
+    "static/media/classroom.png": "/SMIT1/static/media/classroom.f472ff2cd754d14669f3.png",
+    "static/media/time.svg": "/SMIT1/static/media/time.4385c93898939eb79375d3cdc30644aa.svg",
+    "static/media/students.png": "/SMIT1/static/media/students.ee8a61c9904f197238c1.png",
+    "static/media/smit.png": "/SMIT1/static/media/smit.95486b687f74750e1a01.png",
+    "index.html": "/SMIT1/index.html",
+    "main.f59cfbce.css.map": "/SMIT1/static/css/main.f59cfbce.css.map",
+    "main.05334250.js.map": "/SMIT1/static/js/main.05334250.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f59cfbce.css",
+    "static/js/main.05334250.js"
+  ]
+}
